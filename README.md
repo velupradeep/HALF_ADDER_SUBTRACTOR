@@ -1,7 +1,6 @@
-# NAME:PRADEEP V
-# REG NO:212223240119
 
-# HALF_ADDER_SUBTRACTOR
+
+# EX-03: Half_Adder_Subractor
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -67,6 +66,7 @@ and g5(Bo,abar,b);
 endmodule
 
 ```
+
 ```
 /*Developed by:Pradeep V
 RegisterNumber:212223240119*/
